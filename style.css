@@ -1,4 +1,13 @@
+
 body {
     text-align: center;
     list-style-position: inside;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgb(1, 87, 110) 0%, rgba(173,173,218,1) 10%, rgba(0,212,255,1) 100%);
+}
+footer {
+    background-color: beige;
+}
+header {
+    background-color: azure;
 }
